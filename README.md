@@ -35,3 +35,16 @@ TradingView Alert → Webhook → Automation Engine → Exchange API → Telegra
 ## Status
 
 Active development and testing.
+## Project Screenshots
+
+### N8N Workflow Automation
+![Workflow](Screenshot%202026-05-01%20123237.PNG)
+
+### Telegram Signal Bot
+![Telegram](Screenshot%202026-05-01%20122551.png)
+
+### Webhook Processing
+![Webhook](Screenshot%202026-04-27%20104258.PNG)
+
+### API Request Handling
+![API](Screenshot%202026-04-30%20080443.PNG)
